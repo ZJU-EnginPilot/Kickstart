@@ -18,4 +18,4 @@
 
 ## 人工智能基础A
 
--[flip](https://flip123123.github.io/flip-/school/ai/ai/)
+- [flip](https://flip123123.github.io/flip-/school/ai/ai/)
