@@ -159,6 +159,9 @@ nav:
     - 工试课程经验: "Study/Courses.md"
     - 工试专业简介: "Study/Majors.md"
     - 专业选择: "Study/MajorSelection.md"
+    - 课外:
+      - vpn: "Study/vpn.md"
+      - markdown: "Study/markdown.md"
   - 生活: 
     - "Life/index.md"
     - 安全: "Life/Safety.md"
