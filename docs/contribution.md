@@ -8,7 +8,7 @@
 
 ### GitHub 上的操作指南
 
-1. 到 [GitHub 项目网址](https://github.com/ZJU-EnginPilot/Kickstart2024){target=_blank}，点击右上角的 `Fork` 按钮，将项目 Fork 到你的 repo 中。
+1. 到 [GitHub 项目网址](https://github.com/ZJU-EnginPilot/Kickstart){target=_blank}，点击右上角的 `Fork` 按钮，将项目 Fork 到你的 repo 中。
 2. 在你的 repo 中进行修改，修改完成后提交并发起 Pull Request (PR)。
 3. 等待管理员审核你的 PR。
 
@@ -22,8 +22,8 @@
 1. 克隆 GitHub 项目到本地：
 
     ```bash
-    git clone https://github.com/ZJU-EnginPilot/Kickstart2024.git
-    cd Kickstart2024
+    git clone https://github.com/ZJU-EnginPilot/Kickstart.git
+    cd Kickstart
     ```
 
 2. 安装 Python 依赖（MkDocs 以及 Material 主题）

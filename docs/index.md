@@ -8,9 +8,12 @@ hide:
 
 # **Hi~ o(*￣▽￣*)ブ**
 
-2024 级工科试验班的同学们大家好！
+工科试验班的同学们大家好！
 
-这是一个由 24 级工科试验班学长组成员维护的网站，汇集了我们在学习、生活中的一些资料、经验和建议，希望能对刚进入浙大的你们有所帮助！
+这是一个由工科试验班学长组成员维护的网站，汇集了我们在学习、生活中的一些资料、经验和建议，希望能对刚进入浙大的你们有所帮助！
+
+!!! danger "**网站内容可能过时**"
+    网站主体内容于 2024 年撰写，**部分信息可能失去了时效性**。
 
 !!! success ""
     有问题？戳这里👉 [有问题问谁？]
@@ -21,7 +24,7 @@ hide:
     见👉 [安全] 👈
 
 !!! info inline end "Tips"
-    网站内容正在更新中，还请[多多关注](https://github.com/ZJU-EnginPilot/Kickstart2024){title="去 GitHub 点个 ⭐️star 吧！"; target=_blank}/[补充贡献]！:octicons-heart-fill-24:{ .heart }
+    网站内容正在更新中，还请[多多关注](https://github.com/ZJU-EnginPilot/Kickstart){title="去 GitHub 点个 ⭐️star 吧！"; target=_blank}/[补充贡献]！:octicons-heart-fill-24:{ .heart }
     
     本站共有 {{ pages }} 个页面，{{ words }} 个字。
 

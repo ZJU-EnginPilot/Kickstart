@@ -1,13 +1,13 @@
-site_name: 24级工试学长组资料汇总
-site_author: 24级工试学长组
-site_url: https://zju-enginpilot.github.io/Kickstart2024/
-site_description: 24级工试学长组资料汇总网站
+site_name: 工试学长组资料汇总
+site_author: 工试学长组
+site_url: https://zju-enginpilot.github.io/Kickstart/
+site_description: 工试学长组资料汇总网站
 
-repo_name: Kickstart2024
-repo_url: https://github.com/ZJU-EnginPilot/Kickstart2024
+repo_name: Kickstart
+repo_url: https://github.com/ZJU-EnginPilot/Kickstart
 edit_uri: tree/main/docs/
 
-copyright: Copyright &copy; 2024 浙江大学工科试验班学长组
+copyright: Copyright &copy; 2024 - 2025 浙江大学工科试验班学长组
 
 theme:
   name: material
@@ -75,7 +75,7 @@ extra:
           name: 有待改进！
           data: 0
           note: >- 
-            感谢你的反馈! 为这个网站项目做<a href="https://zju-enginpilot.github.io/Kickstart2024/contribution/" target="_blank" rel="noopener">贡献</a>，
+            感谢你的反馈! 为这个网站项目做<a href="https://zju-enginpilot.github.io/Kickstart/contribution/" target="_blank" rel="noopener">贡献</a>，
             一起让它变得更好！🚀
 
 markdown_extensions:
@@ -120,7 +120,7 @@ plugins:
       type: iso_date
   - git-committers:
       enabled: !ENV [CI, false]
-      repository: ZJU-EnginPilot/Kickstart2024
+      repository: ZJU-EnginPilot/Kickstart
       branch: main
   - minify:
       minify_html: true # 加快网页加载速度
@@ -156,7 +156,10 @@ nav:
     - 学业基本制度: "Study/Concepts.md"
     - 体育: "Study/PE.md"
     - 选课: "Study/CourseSelection.md"
-    - 工试课程经验: "Study/Courses.md"
+    - 工试课程经验: 
+      - "Study/CourseExperience/index.md"
+      - 工程训练: "Study/CourseExperience/工程训练食用指南.md"
+      - 机械制图及CAD基础: "Study/CourseExperience/机械制图及CAD基础.md"
     - 工试专业简介: "Study/Majors.md"
     - 专业选择: "Study/MajorSelection.md"
   - 生活: 
@@ -179,7 +182,7 @@ nav:
     - 学习平台: "Online/Learning.md"
     - 论坛: "Online/Forum.md"
     - 其他: "Online/Others.md"
-  # - 技能: 
-  #   - "Skills/index.md"
-  #   - 电脑基本操作: "Skills/PCop.md"
+  - 技能: 
+    - "Skills/index.md"
+    - 电脑基本操作: "Skills/PCop.md"
   - 拓展阅读: "More/index.md"
